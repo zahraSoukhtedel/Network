@@ -1,0 +1,24 @@
+2022-04-17 01:25:59.447247 sending message : start, to port : 8888
+ 2022-04-17 01:25:59.447247 receiving message : ok, from port : 8888
+ 2022-04-17 01:26:02.949780 sending message : 11, to port : 8888
+ 2022-04-17 01:26:02.949780 receiving message : ok, from port : 8888
+ 2022-04-17 01:26:04.583297 sending message : *, to port : 8888
+ 2022-04-17 01:26:04.583297 receiving message : ok, from port : 8888
+ 2022-04-17 01:26:06.020600 sending message : 12, to port : 8888
+ 2022-04-17 01:26:06.020600 receiving message : ok, from port : 8888
+ 2022-04-17 01:26:06.020600 receiving message : 132, from port : 8888
+ 2022-04-17 01:26:11.509339 sending message : start, to port : 8888
+ 2022-04-17 01:26:11.509339 receiving message : ok, from port : 8888
+ 2022-04-17 01:26:15.015167 sending message : 11.5, to port : 8888
+ 2022-04-17 01:26:15.015167 receiving message : the operand in not an integer!, from port : 8888
+ 2022-04-17 01:26:17.890414 sending message : start, to port : 8888
+ 2022-04-17 01:26:17.890414 receiving message : ok, from port : 8888
+ 2022-04-17 01:26:19.888789 sending message : 11, to port : 8888
+ 2022-04-17 01:26:19.888789 receiving message : ok, from port : 8888
+ 2022-04-17 01:26:22.591115 sending message : */, to port : 8888
+ 2022-04-17 01:26:22.591115 receiving message : the operator is not correct!, from port : 8888
+ 2022-04-17 01:26:27.235946 sending message : start, to port : 8888
+ 2022-04-17 01:26:27.235946 receiving message : ok, from port : 8888
+ 2022-04-17 01:26:28.903494 sending message : 5, to port : 8888
+ 2022-04-17 01:26:28.903494 receiving message : ok, from port : 8888
+ 
